@@ -1,0 +1,2 @@
+"Af Bij","Bedrag _EUR","Code","Datum","Mededelingen","MutatieSoort","Naam _ Omschrijving","Rekening","Tegenrekening"
+"Af","6,00","BA","20200203","Pasvolgnr: 001 01-01-2019 12:00 Transactie: 11X111 Term: S5ZR1N Valutadatum: 03-02-2020","Betaalautomaat","Subway","IBAN1","IBAN2"
